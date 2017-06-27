@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wired.com</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_item_news">Last News</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nav_drawer_labels">
+    <item>@string/nav_item_news</item>
+    </string-array>
+    <string name="title_news_page">News Content</string>
+    <string name="title_news">Last News</string>
+</resources>
